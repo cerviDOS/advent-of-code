@@ -1,0 +1,8 @@
+[package]
+name = "advent_of_code"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name="2015_day_1"
+path="src/bin/2015/day_1/floors.rs"
