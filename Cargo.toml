@@ -6,3 +6,7 @@ edition = "2024"
 [[bin]]
 name="2015_day_1"
 path="src/bin/2015/day_1/floors.rs"
+
+[[bin]]
+name="2015_day_2"
+path="src/bin/2015/day_2/giftwrap.rs"
